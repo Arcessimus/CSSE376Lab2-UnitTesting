@@ -1,0 +1,31 @@
+Question 1: Main Source: Expedia, Test Code: ExpediaTest
+
+Question 2: Booking, Car, Flight, Hotel, User
+
+Question 3: It defines the flight aspect of the user's travel plan. 
+Each user will have a preferred departure date and a preferred return date.And it calculates the base price.
+
+Question 4: BookingTest, CarTest, FlightTest, HotelTest, UserTest
+
+Question 5: TestThatUserInitializes, TestThatUserHasZeroFrequentFlierMilesOnInit, TestThatUserCanBookEveryThing,
+TestThatUserHasFrequentFlierMilesAfterBooking, TestThatUserCanBookAFlight, TestThatUserCanBookAHotelAndACar,
+TestThatUserHasCorrectNumberOfFrequentFlyerMilesAfterOneFlight
+
+Question 6: AreEqual, AreSame, AreNotEqual
+
+Question 7: the two objects are equivalent, they are the same object, they are not equivalent
+
+Question 8: AreEqual recognizes two separate but equal objects. AreSame recognizes one object with two references.
+
+Question 9: It verifies that the constructor is working properly.
+
+Question 10: 45 dollars multiplied by the number of nights of stay
+
+Question 11: Correct price for one day, correct price for two days, correct price for 10 days
+
+Question 12: We already have verified that the constructor works properly.
+
+Question 13: Because in the constructor throws an exception if the number in the argument is 0 or lower, and
+for the test case we are providing the constructor with -5.
+
+Question 14: [ExpectedException(typeof(OutOfMemoryException))]
